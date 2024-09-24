@@ -6,4 +6,4 @@ seaborn
 flask
 matplotlib
 streamlit
-
+nltk
